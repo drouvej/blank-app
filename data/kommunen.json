@@ -1,0 +1,235 @@
+{
+  "musterstadt": {
+    "username": "demo",
+    "password": "demo123",
+    "viewer_token": "demo-link",
+    "name": "Musterstadt",
+    "tagline": "Kommunalfinanzen transparent und verständlich",
+    "years": {
+      "2026": {
+        "annual_result": -2400000,
+        "trade_tax": 13000000,
+        "district_levy": 8500000,
+        "revenues": {
+          "Gewerbesteuer": 13000000,
+          "Grundsteuer": 4500000,
+          "Einkommensteueranteil": 7200000,
+          "Gebühren": 2000000
+        },
+        "expenses": {
+          "Personal": 9500000,
+          "Kreisumlage": 8500000,
+          "Soziales": 4200000,
+          "Sachaufwand": 3600000
+        },
+        "projects": [
+          "Grundschulsanierung",
+          "Radweg Hauptstraße",
+          "Spielplatz-Modernisierung",
+          "Kita-Neubau"
+        ],
+        "total_investments": 9000000,
+        "benchmarks": {
+          "Schulden pro Kopf": {
+            "own": 1850,
+            "avg": 2100,
+            "comment": "Unter Durchschnitt"
+          },
+          "Investitionsquote": {
+            "own": 17.3,
+            "avg": 13.8,
+            "comment": "Überdurchschnittlich zukunftsorientiert"
+          },
+          "Gewerbesteuererträge": {
+            "own": 13000000,
+            "avg": 9800000,
+            "comment": "Starke lokale Wirtschaft"
+          }
+        },
+        "voluntary_services": {
+          "total": 1300000,
+          "share": 3.9,
+          "items": [
+            "Kulturförderung",
+            "Sportvereine",
+            "Veranstaltungen",
+            "Grünflächen & Parks"
+          ]
+        },
+        "facts": [
+          "Ein Schüler kostet ca. 8.200 € pro Jahr.",
+          "Ein Musikschulplatz kostet ca. 1.400 € pro Jahr.",
+          "1 km Straßensanierung kostet im Schnitt 1,1 Mio. €."
+        ]
+      },
+      "2027": {
+        "annual_result": -2400000,
+        "trade_tax": 13000000,
+        "district_levy": 8500000,
+        "revenues": {
+          "Gewerbesteuer": 13000000,
+          "Grundsteuer": 4500000,
+          "Einkommensteueranteil": 7200000,
+          "Gebühren": 2000000
+        },
+        "expenses": {
+          "Personal": 9500000,
+          "Kreisumlage": 8500000,
+          "Soziales": 4200000,
+          "Sachaufwand": 3600000
+        },
+        "projects": [
+          "Grundschulsanierung",
+          "Radweg Hauptstraße",
+          "Spielplatz-Modernisierung",
+          "Kita-Neubau"
+        ],
+        "total_investments": 9000000,
+        "benchmarks": {
+          "Schulden pro Kopf": {
+            "own": 1850,
+            "avg": 2100,
+            "comment": "Unter Durchschnitt"
+          },
+          "Investitionsquote": {
+            "own": 17.3,
+            "avg": 13.8,
+            "comment": "Überdurchschnittlich zukunftsorientiert"
+          },
+          "Gewerbesteuererträge": {
+            "own": 13000000,
+            "avg": 9800000,
+            "comment": "Starke lokale Wirtschaft"
+          }
+        },
+        "voluntary_services": {
+          "total": 1300000,
+          "share": 3.9,
+          "items": [
+            "Kulturförderung",
+            "Sportvereine",
+            "Veranstaltungen",
+            "Grünflächen & Parks"
+          ]
+        },
+        "facts": [
+          "Ein Schüler kostet ca. 8.200 € pro Jahr.",
+          "Ein Musikschulplatz kostet ca. 1.400 € pro Jahr.",
+          "1 km Straßensanierung kostet im Schnitt 1,1 Mio. €."
+        ]
+      },
+      "2028": {
+        "annual_result": -2400000,
+        "trade_tax": 13000000,
+        "district_levy": 8500000,
+        "revenues": {
+          "Gewerbesteuer": 13000000,
+          "Grundsteuer": 4500000,
+          "Einkommensteueranteil": 7200000,
+          "Gebühren": 2000000
+        },
+        "expenses": {
+          "Personal": 9500000,
+          "Kreisumlage": 8500000,
+          "Soziales": 4200000,
+          "Sachaufwand": 3600000
+        },
+        "projects": [
+          "Grundschulsanierung",
+          "Radweg Hauptstraße",
+          "Spielplatz-Modernisierung",
+          "Kita-Neubau"
+        ],
+        "total_investments": 9000000,
+        "benchmarks": {
+          "Schulden pro Kopf": {
+            "own": 1850,
+            "avg": 2100,
+            "comment": "Unter Durchschnitt"
+          },
+          "Investitionsquote": {
+            "own": 17.3,
+            "avg": 13.8,
+            "comment": "Überdurchschnittlich zukunftsorientiert"
+          },
+          "Gewerbesteuererträge": {
+            "own": 13000000,
+            "avg": 9800000,
+            "comment": "Starke lokale Wirtschaft"
+          }
+        },
+        "voluntary_services": {
+          "total": 1300000,
+          "share": 3.9,
+          "items": [
+            "Kulturförderung",
+            "Sportvereine",
+            "Veranstaltungen",
+            "Grünflächen & Parks"
+          ]
+        },
+        "facts": [
+          "Ein Schüler kostet ca. 8.200 € pro Jahr.",
+          "Ein Musikschulplatz kostet ca. 1.400 € pro Jahr.",
+          "1 km Straßensanierung kostet im Schnitt 1,1 Mio. €."
+        ]
+      },
+      "2029": {
+        "annual_result": -2400000,
+        "trade_tax": 13000000,
+        "district_levy": 8500000,
+        "revenues": {
+          "Gewerbesteuer": 13000000,
+          "Grundsteuer": 4500000,
+          "Einkommensteueranteil": 7200000,
+          "Gebühren": 2000000
+        },
+        "expenses": {
+          "Personal": 9500000,
+          "Kreisumlage": 8500000,
+          "Soziales": 4200000,
+          "Sachaufwand": 3600000
+        },
+        "projects": [
+          "Grundschulsanierung",
+          "Radweg Hauptstraße",
+          "Spielplatz-Modernisierung",
+          "Kita-Neubau"
+        ],
+        "total_investments": 9000000,
+        "benchmarks": {
+          "Schulden pro Kopf": {
+            "own": 1850,
+            "avg": 2100,
+            "comment": "Unter Durchschnitt"
+          },
+          "Investitionsquote": {
+            "own": 17.3,
+            "avg": 13.8,
+            "comment": "Überdurchschnittlich zukunftsorientiert"
+          },
+          "Gewerbesteuererträge": {
+            "own": 13000000,
+            "avg": 9800000,
+            "comment": "Starke lokale Wirtschaft"
+          }
+        },
+        "voluntary_services": {
+          "total": 1300000,
+          "share": 3.9,
+          "items": [
+            "Kulturförderung",
+            "Sportvereine",
+            "Veranstaltungen",
+            "Grünflächen & Parks"
+          ]
+        },
+        "facts": [
+          "Ein Schüler kostet ca. 8.200 € pro Jahr.",
+          "Ein Musikschulplatz kostet ca. 1.400 € pro Jahr.",
+          "1 km Straßensanierung kostet im Schnitt 1,1 Mio. €."
+        ]
+      }
+    }
+  }
+}
